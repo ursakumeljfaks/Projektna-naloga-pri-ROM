@@ -5,11 +5,8 @@ Ta repozitorij vsebuje projekt, v katerem analiziram indekse stanovanjskih nepre
 ### Načrt projekta:
 
 1. Pridobila podatke iz SURS-a
-2. Ustvarila tabelo vrednosti za prvo četrtletje
+2. Ustvarila tabelo vrednosti za prvo četrtletje (jan, feb, mar), ki se primerja z zadnjim četrtletjem prejšnjega leta
 3. Prečistila podatke
 4. Primerjala posamezne vrste nepremičnin z njihovimi indeksi po letih, dodala nekaj grafov
 5. Predgledala v katerih letih je imela posamezna vrsta maksimalen in minimalen indeks cen
-6. Ustvarila tabelo vrednosti za zadnje četrtletje
-7. Ponovno primerjala posamezne vrste z njihovimi indeksi po letih
-8. Pregledala leta z makismalnim in minimalnim indeksom cen glede na vrsto
-9. Analizirala vse pridobljene vrednosti in podala ugotovitve
+6. Analizirala vse pridobljene vrednosti in podala ugotovitve
